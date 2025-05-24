@@ -41,13 +41,13 @@ The dataset includes:
    git clone https://github.com/dhruvrohit229/Diwali_Sales_Analysis.git
 
 2. Navigate to the project directory
-    '''bash
+   ```bash
    cd Diwali_Sales_Analysis
 
 2. Install dependencies (if needed):
-    '''bash
-    pip install pandas numpy matplotlib seaborn
+   ```bash
+   pip install pandas numpy matplotlib seaborn
 
 3. Open and run the notebook:
-    '''bash
-    jupyter notebook Diwali_Sales_Analysis.ipynb
+   ```bash
+   jupyter notebook Diwali_Sales_Analysis.ipynb
